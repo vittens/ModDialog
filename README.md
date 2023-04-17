@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/github/license/vittens/mod-dialog.svg" alt="LICENSE"/>
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/forks/vittens/mod-dialog.svg?style=social" alt="https://github.com/vittens/mod-dialog/network/members"/>
+</p>
+
 ## Limited Dialog
 
 If you want to use limited dialog, you have to use the following code:
