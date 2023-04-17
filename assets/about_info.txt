@@ -1,0 +1,7 @@
+UI Mod Dialog for Modders!
+This Project is Open Source
+• Owned by <a href="https://github.com/SnowVolf">SnowVolf</a>
+• Extracted by Kero309x
+• Developed by <a href="https://github.com/vittens">zVittens</a>
+
+Dialog is still under development.
