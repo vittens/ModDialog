@@ -69,6 +69,6 @@ Once you have defined both types of code, you should paste this code into the `o
   <img width="180" src="./examples/ex2.jpg">
 </p>
 
-You can develop this project, if the results are not interesting 😉
+<p align="center">You can develop this project, if the results are not interesting 😉</p>
 
 ---
