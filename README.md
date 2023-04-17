@@ -32,7 +32,7 @@ Move all these files into your own app project, you can also edit or replace the
 ## Smali Folder
 The `smali` folder must be compressed into a `.zip`
 
-## Limited Dialog
+## Dialog Type
 
 If you want to use limited dialog, you have to use the following code:
 
@@ -40,17 +40,15 @@ If you want to use limited dialog, you have to use the following code:
 invoke-static/range {p0 .. p0}, Lmeh/vittens/moddialog/ModDialog;->prepare(Landroid/app/Activity;)V
 ```
 
-`Limited Dialog` has the following system:
-- A dialog will appear on the first launch of the application.
-- This dialog will appear only once, if you have opened the first application then the second time it will not appear again.
-
-## Unlimited Dialog
-
 If you want to use unlimited dialog, you have to use the following code:
 
 ```
 invoke-static/range {p0 .. p0}, Lmeh/vittens/moddialog/ModDialog;->showCrackerDialog(Landroid/content/Context;)V
 ```
+
+`Limited Dialog` has the following system:
+- A dialog will appear on the first launch of the application.
+- This dialog will appear only once, if you have opened the first application then the second time it will not appear again.
 
 `Unlimited Dialog` has the following system:
 - A dialog will appear on the first launch of the application.
