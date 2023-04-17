@@ -19,6 +19,21 @@
     <img src="https://img.shields.io/github/forks/vittens/mod-dialog.svg?style=social" alt="https://github.com/vittens/mod-dialog/network/members"/>
 </p>
 
+---
+## Move an Assets
+In this repository there is an `Assets` folder, you should move this folder which contains:
+- `about_info.txt`
+- `font.ttf`
+- `pcover.webp`
+- `pprofile.webp`
+
+Move all these files into your own app project, you can also edit or replace them.
+
+## Smali Folder
+The `smali` folder must be compressed into a `.zip`
+
+---
+
 ## Limited Dialog
 
 If you want to use limited dialog, you have to use the following code:
@@ -42,3 +57,18 @@ invoke-static/range {p0 .. p0}, Lmeh/vittens/moddialog/ModDialog;->showCrackerDi
 `Unlimited Dialog` has the following system:
 - A dialog will appear on the first launch of the application.
 - This dialog will appear repeatedly, if you have opened the first application then the second time it will appear again.
+
+## Code Location
+Once you have defined both types of code, you should paste this code into the `onCreate` section of any activity such as `MainActivity`.
+
+---
+
+## Results
+
+<p align="center">
+  <img width="180" src="./examples/ex2.jpg">
+</p>
+
+You can develop this project, if the results are not interesting 😉
+
+---
