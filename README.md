@@ -32,8 +32,6 @@ Move all these files into your own app project, you can also edit or replace the
 ## Smali Folder
 The `smali` folder must be compressed into a `.zip`
 
----
-
 ## Limited Dialog
 
 If you want to use limited dialog, you have to use the following code:
