@@ -1,7 +1,7 @@
+  <h1 align="center">Mod Dialog</h1>
 <p align="center">
   <img width="180" src="./examples/ex1.jpg" alt="Mod Dialog">
 </p>
-  <h1 align="center">Mod Dialog</h1>
   <p align="center">Mod Dialog SOURCE CODE for Modders</p>
 <p align="center">
     <img src="https://img.shields.io/github/stars/vittens/mod-dialog?style=social"/>
