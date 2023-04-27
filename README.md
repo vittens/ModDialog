@@ -63,15 +63,13 @@ Once you have defined both types of code, you should paste this code into the `o
 <p align="center">
 <h1 align="center">Sponsorship</h1>
 
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
-  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/vittens"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
+<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
+  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
 
 <h2 align="center">Crypto Donations</h2>
-
 <p align="center">If you prefer to donate using cryptocurrency, you can use the following wallet addresses:</p>
 
 <p align="center">
