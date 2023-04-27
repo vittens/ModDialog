@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/github/forks/vittens/mod-dialog.svg?style=social" alt="https://github.com/vittens/mod-dialog/network/members"/>
 </p>
 
+---
+
 ## Move an Assets
 In this repository there is an `Assets` folder, you should move this folder which contains:
 - `about_info.txt`
