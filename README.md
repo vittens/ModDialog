@@ -56,6 +56,8 @@ Once you have defined both types of code, you should paste this code into the `o
 </p>
 <p align="center">You can develop this project, if the results are not interesting 😉</p>
 
+---
+
 <p align="center">
 <h1 align="center">Sponsorship</h1>
 
@@ -74,8 +76,7 @@ Once you have defined both types of code, you should paste this code into the `o
   Bitcoin: <code>-</code> <br>
 </p>
 
-
-
+---
 
 <p align="center">Thank you to the following people for their support:</p>
 
